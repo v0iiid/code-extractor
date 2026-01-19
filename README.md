@@ -21,6 +21,7 @@ This project is **fully free**, offline, and designed for **10–20 minute codin
 ## Todos
 
 - [x] Convert Video to frames.
-- [ ] Frames filtering using openCV (check weather frames have code or not).
+- [ ] Frames filtering using openCV (check weather frames have code or not)
+Dark background + high edge density (text present) + presence of code symbols ({ } ( ) ; < >).
 - [ ] OCR to extract text from the video.
 - [ ] Using LLM to combine the code and then creating folder and files.
