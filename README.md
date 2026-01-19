@@ -17,3 +17,10 @@ This project is **fully free**, offline, and designed for **10–20 minute codin
 - Fully offline and free
 
 ---
+
+## Todos
+
+- [x] Convert Video to frames.
+- [ ] Frames filtering using openCV (check weather frames have code or not).
+- [ ] OCR to extract text from the video.
+- [ ] Using LLM to combine the code and then creating folder and files.
